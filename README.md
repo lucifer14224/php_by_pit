@@ -6,8 +6,8 @@ PHP MySQL reference : thaicreate
 ```
 cd /var/www/html;
 git clone https://github.com/lucifer14224/php_by_pit; 
-mv -v ./php-mysql-login-system/* ./ ; 
-rm -r php-mysql-login-system;
+mv -v ./php_by_pit/* ./ ; 
+rm -r php_by_pit;
 ```
 
 ```
