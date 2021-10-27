@@ -5,7 +5,7 @@ PHP MySQL reference : thaicreate
 ### vmware linux server
 ```
 cd /var/www/html;
-git clone https://github.com/lacakp/php-mysql-login-system.git; 
+git clone https://github.com/lucifer14224/php_by_pit; 
 mv -v ./php-mysql-login-system/* ./ ; 
 rm -r php-mysql-login-system;
 ```
